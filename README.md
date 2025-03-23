@@ -23,6 +23,7 @@ This project uses a dataset of over **10,000 Citi Bank credit card customer reco
 ## 📊 Key Metrics Identified & Analyzed
 
 - **Churn overview and segmentation**:
+  
   ![Dashboard Preview](https://github.com/SoumyaShahh/Customer-Attrition-Analysis/blob/main/screenshots/Explanatory%20Analysis.png)
 - **Detailed analysis of revolving balance and tenure**:
   ![Dashboard Preview](https://github.com/SoumyaShahh/Customer-Attrition-Analysis/blob/main/screenshots/Picture5.png)
