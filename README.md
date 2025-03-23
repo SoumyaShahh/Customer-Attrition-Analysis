@@ -33,18 +33,19 @@ This project uses a dataset of over **10,000 Citi Bank credit card customer reco
 
 ## 🧠 Recommended Retention Strategies
 
-- Target **high-revolving balance users** with personalized financial advice  
-- Engage **low tenure users** with loyalty programs and timely contact  
-- Offer tailored incentives for **Gold and Blue cardholders** with high churn risk  
-- Monitor **credit limit changes** as a predictor of dissatisfaction  
+- **Optimize credit limits** for at-risk users to improve engagement
+- **Expand **behavioral analysis** using spend and repayment trends
+- **Enable real-time monitoring** of balances and utilization patterns
+- **Predict churn with ML** to target high-risk customers early
+- **Segment retention campaigns** by age, gender, and usage
+- Incentivize **low-utilization users** with rewards and offers
 
 ---
 
 ## 🛠 Tools Used
 
 - Tableau  
-- Excel  
+- Excel (VLookup, Pivot Tables, Charts)
 - Python (for preprocessing)  
-- Google Drive (for collaboration & storytelling)
 
 ---
