@@ -1,4 +1,4 @@
-# 💳 Citi Bank Credit Card Attrition Analysis
+# 💳 Customer Attrition Analysis | Citi Bank
 
 > A customer attrition analysis project for Citi Bank’s credit card users, leveraging data visualization and segmentation techniques to uncover churn patterns and recommend targeted retention strategies.
 
