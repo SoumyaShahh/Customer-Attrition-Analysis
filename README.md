@@ -22,10 +22,10 @@ This project uses a dataset of over **10,000 Citi Bank credit card customer reco
 
 ## 📊 Key Metrics Identified & Analyzed
 
-- **Churn overview and segmentation**: [Dashboard Preview](https://github.com/SoumyaShahh/Customer-Attrition-Analysis/blob/main/screenshots/Explanatory%20Analysis.png)
-- **Detailed analysis of revolving balance and tenure: [Dashboard Preview](https://github.com/SoumyaShahh/Customer-Attrition-Analysis/blob/main/screenshots/Picture5.png)
-- **Top Churnable Customers** with KPIs like utilization and last contact: [Dashboard Preview](https://github.com/SoumyaShahh/Customer-Attrition-Analysis/blob/main/screenshots/Picture7.png)  
-- **Multi-level Filters** by age, card category, income level, and credit limit: [Dashboard Preview](https://github.com/SoumyaShahh/Customer-Attrition-Analysis/blob/main/screenshots/CustomerAttrition_Grid.png)  
+- **Churn overview and segmentation**: ![Dashboard Preview](https://github.com/SoumyaShahh/Customer-Attrition-Analysis/blob/main/screenshots/Explanatory%20Analysis.png)
+- **Detailed analysis of revolving balance and tenure: ![Dashboard Preview](https://github.com/SoumyaShahh/Customer-Attrition-Analysis/blob/main/screenshots/Picture5.png)
+- **Top Churnable Customers** with KPIs like utilization and last contact: ![Dashboard Preview](https://github.com/SoumyaShahh/Customer-Attrition-Analysis/blob/main/screenshots/Picture7.png)  
+- **Multi-level Filters** by age, card category, income level, and credit limit: ![Dashboard Preview](https://github.com/SoumyaShahh/Customer-Attrition-Analysis/blob/main/screenshots/CustomerAttrition_Grid.png)  
 
 📈 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/soumya.shah6876/viz/MIS561FinalProject/FinalSTORY)  
 
