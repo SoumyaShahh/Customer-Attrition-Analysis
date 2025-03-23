@@ -20,21 +20,21 @@ This project uses a dataset of over **10,000 Citi Bank credit card customer reco
 
 ---
 
-## 📊 Main Visuals
+## 📊 Key Metrics Identified & Analyzed
 
-- **Exploratory Dashboard** for churn overview and segmentation  
-- **Explanatory Dashboard** for detailed analysis of revolving balance and tenure  
-- **Top Churnable Customers Table** with KPIs like utilization and last contact  
-- **Multi-level Filters** by age, card category, income level, and credit limit  
+- **Churn overview and segmentation**: [Dashboard Preview]()
+- **Explanatory Dashboard** for detailed analysis of revolving balance and tenure: [Dashboard Preview]()
+- **Top Churnable Customers Table** with KPIs like utilization and last contact: [Dashboard Preview]()  
+- **Multi-level Filters** by age, card category, income level, and credit limit: [Dashboard Preview]()  
 
-📈 [View Tableau Dashboard](https://public.tableau.com/app/profile/soumya.shah6876/viz/MIS561FinalProject/FinalSTORY)  
+📈 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/soumya.shah6876/viz/MIS561FinalProject/FinalSTORY)  
 
 ---
 
 ## 🧠 Recommended Retention Strategies
 
 - **Optimize credit limits** for at-risk users to improve engagement
-- **Expand **behavioral analysis** using spend and repayment trends
+- **Expand behavioral analysis** using spend and repayment trends
 - **Enable real-time monitoring** of balances and utilization patterns
 - **Predict churn with ML** to target high-risk customers early
 - **Segment retention campaigns** by age, gender, and usage
