@@ -1,5 +1,10 @@
 # 💳 Customer Attrition Analysis | Citi Bank
 
+🚀 **[👉 View the Interactive Tableau Dashboard Here](https://public.tableau.com/app/profile/soumya.shah6876/viz/MIS561FinalProject/FinalSTORY)**  
+*Explore dynamic filters, churn segmentation, and deep insights directly in the dashboard.*
+
+---
+
 > A customer attrition analysis project for Citi Bank’s credit card users, leveraging data visualization and segmentation techniques to uncover churn patterns and recommend targeted retention strategies.
 
 ---
